@@ -1,7 +1,5 @@
-Readme for Assignment 1 of ECE5544 Compiler Optimization 
-
 Instructions:
-Copy the shambhavianil folder in Transforms folder in llvm-project preferably.
+Copy the folder in Transforms folder in llvm-project preferably.
 All the commands are given for test files that are placed next to the pass file i.e. loop.c is placed in FunctionInfo folder next to FunctionInfo.cpp. Thus, the path for running the pass only includes ./ as the path.
 Same is done for algebraic.c, strength.c and constfold.c. They are placed next to LocalOpts.cpp in LocalOpts folder for convenience.
 Path to the .so file needs to be changed if any other location files are used. 
